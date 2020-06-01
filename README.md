@@ -4,3 +4,5 @@ It has very simple but intereseting logic.
 To check Program:
 Username : user1.
 Pin:1111.
+
+You can check your balance...
